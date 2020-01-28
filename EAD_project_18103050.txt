@@ -1,0 +1,6 @@
+STOCK MARKET PREDICTOR
+System will help in predicting the graphs of different stock mentioned by the user by taking the data from the internet or supplied by the user, Most importantly it will help with the problem of involving the investors intuition by providing 30% of data points based on investors intuition(options of higher and lower limit and general direction of market) to the train dataset {which is 70% of the total data and 30% data is the test dataset}.storing the predicted dataset for the day or further prediction in a database which will continuously get update as more train data is provided.
+We discussed a similar case study where the investors were feeling a bit hesitant because the software was just providing mathematical computation . We will also display profitable stocks that have already been entered in the database, by providing potential Target price to sell at, Buy-in price and CMP by analysing the database.
+I will implement the machine learning algorithm, database maintaining and using python to provide the user with a GUI to interact with.
+Members:
+Gaurav Sharma – 18103050
