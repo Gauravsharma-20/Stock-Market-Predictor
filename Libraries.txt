@@ -1,0 +1,9 @@
+pip install yfinance --upgrade --no-cache-dir
+pip install pandas-datareader 
+pip install numpy
+pip install pandas
+pip install nsepy 
+pip install tkinter
+pip install keras
+pip install tensorflow 
+pip install matplotlib
