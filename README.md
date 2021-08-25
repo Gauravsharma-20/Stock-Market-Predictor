@@ -15,7 +15,7 @@ System is able to display that particular prediction on a systematic graph and i
 
 ### System Description
 <ul>
-  <li><a href="./Stock Market Prediction System-converted.pdf" target="_blank">Presentation</a></li>
+  <li><a href="https://drive.google.com/file/d/1G9vKoLMstAIpHfkzYLyYr48s94Djyoo3/view?usp=sharing" target="_blank">Presentation</a></li>
   <li>Design Diagrams:</li>
     <ul>
       <li><a href="Design Diagrams/Zero level diagram.png" target="_blank">Zero Level</a></li>
@@ -23,7 +23,6 @@ System is able to display that particular prediction on a systematic graph and i
       <li><a href="Design Diagrams/18103050_Decision_Tree.png" target="_blank">Decision Tree</a></li>
     </ul>
   <li><a href="SRS_StockMarketPredictor.docx" target="_blank">SRS Doc</a></li>
-  <li><a href="https://drive.google.com/file/d/1G9vKoLMstAIpHfkzYLyYr48s94Djyoo3/view?usp=sharing" target="_blank">Demo</a></li>
 </ul>
 
 ### APIs used for Fetching data:
