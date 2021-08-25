@@ -6,8 +6,10 @@ System aims to provide professional to beginner traders/investors a basic analys
 System is able to display that particular prediction on a systematic graph and is able Predict Future Low, High points with the help of Machine Learning (A combination of LSTM, SVM and LR algorithms) and further display them on an interactive GUI. It is able to Store this analysis onto a database to reduce future computations related to that particular stock and also utilizing that prior analysis to improve future predictions. System also includes a separate additional feature for user to inculcate their intuition into the prediction and possibly improving the accuracy based on that.
 
 
+<p float='left'>
 <img src='System Descriptions/Screenshots/Search.png' width='320' height='320'/>
 <img src='System Descriptions/Screenshots/predictedGraph.png' width='450' height='320' hspace="10"/>
+</p>
 <img src='System Descriptions/Screenshots/dailyMovingAverageGraph.png' width='500' height='320'/>
 
 
